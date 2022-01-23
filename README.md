@@ -2,6 +2,10 @@
 
 # CREATED
 /user/authenticate ---> authentication <br />
+TO AUTHENTICATE JUST INCLUDE email:<email id> AND password:<password> IN BODY
+  <br/>
+You can select any email_id and password from the data given below in database section.
+  <br/>
 <br />
 /follow/:id ---> follow  <br />
 /unfollow/:id ---> unfollow  <br />
@@ -20,6 +24,13 @@
 Posts(post_id,title,description,c_time)
 <br/>
 Credentials(email,password)
+<br/>
+data:
+email                         Password
+<br/>
+pravesh dholwani5@gmail.com   abcdefg 
+<br/>
+dholwani5                     dholwani
 <br/>
 Users(email,user_name)
 <br/>
