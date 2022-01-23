@@ -25,12 +25,12 @@ Posts(post_id,title,description,c_time)
 <br/>
 Credentials(email,password)
 <br/>
-data:
-email                         Password
+data:<br/>
+email--Password
 <br/>
-pravesh dholwani5@gmail.com   abcdefg 
+praveshdholwani5@gmail.com--abcdefg 
 <br/>
-dholwani5                     dholwani
+dholwani5--dholwani
 <br/>
 Users(email,user_name)
 <br/>
